@@ -1,6 +1,7 @@
 <TEI>
 <teiHeader>
     <fileDesc>
+
         <titleStmt>
             <title>
                 <!--Title-->
@@ -17,10 +18,9 @@
 
         <sourceDesc>
             <p>
-                <!--Infomation about the source-->
-                 wizardingworld.com 
+                <!--Information about the source-->
+                 wizardingworld.com (Offical Harry Potter Website)
             </p>
-
         </sourceDesc>
 
     </fileDesc>
