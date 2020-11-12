@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <?xml version="1.0"?>
+    <?xml-stylesheet type="text/xsl" href="text_excerpt2.xsl"?> 
+    <title>Document</title>
+</head>
+<body>
+    
+<Info>
+  <email>
+    awonderland@luc.edu
+  </email>
+
+  <addrLin>
+
+    <number>1234</number>
+    <street>DisneyLand</street>
+    <state >California</state>
+  
+  </addrLine>
+
+</Info>
+</body>
+</html>
+
+
+
+<TEI>
+<teiHeader>
+    <fileDesc>
+
+        <titleStmt>
+            <title>
+            </title>
+        </titleStmt>
+
+        <publicationStmt>
+            <p> 
+            </p>
+        </publicationStmt>
+
+        <sourceDesc>
+            <p>       
+            </p>
+        </sourceDesc>
+
+    </fileDesc>
+</teiHeader>
+
+<text>
+    <body>
+            
+            <docAddress>
+                <email type="main">awonderland@luc.edu</email>
+                <addrLine>
+                    <number type="main">1234</number>
+                    <street type='main'>DisneyLand </street>
+                    <state type='main'>California</state>
+                </addrLine>
+            </docAddress>
+
+
+    </body>
+ </text>
+
+</TEI>
+
+ 

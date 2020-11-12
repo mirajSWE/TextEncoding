@@ -1,0 +1,70 @@
+
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="UnderTSea.xsl"?>
+
+<Book>
+  <Title>
+    20,000 Leagues Under the Sea
+  </Title>
+
+  <Authors>
+        <Author>
+            Julia Verne
+        </Author>
+  </Authors>
+
+
+    <distance>
+        20,000 Leagues
+    </distance>
+    
+  <Body></Body>
+</Book>
+
+
+
+<TEI>
+<teiHeader>
+    <fileDesc>
+
+        <titleStmt>
+            <title>
+            </title>
+        </titleStmt>
+
+        <publicationStmt>
+            <p> 
+            </p>
+        </publicationStmt>
+
+        <sourceDesc>
+            <p>       
+            </p>
+        </sourceDesc>
+
+    </fileDesc>
+</teiHeader>
+
+<text>
+    <body>
+            
+            <docTitle>
+                <Title type="main">20,000 Leagues Under the Sea</title>
+            </docTitle>
+
+            <docAuthor>
+                <Author>Julia Verne</Author>
+            </docAuthor>
+
+            <docNum>
+
+                <measure type="distance" quantity="3.5" unit="miles" commodity="water">20,000 Leagues</measure>
+
+            </docNum>
+
+    </body>
+ </text>
+
+</TEI>
+
+ 

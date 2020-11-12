@@ -26,14 +26,42 @@
     </fileDesc>
 </teiHeader>
 
-    <text>
-        <body>
+<text>
+    <front>
+        <titlePage>
+
+            <docTitle>
+                <titlePart type="main">Harry Potter and the Philosopher’s Stone</titlePart>
+            </docTitle>
+
+            <docline>
+                <docAuthor>JK Rowling</docAuthor>
+            </docline>
+
+            <figure>
+                <graphic url="insert.jpg"/>
+                <head>  
+                    "The first Harry Potter book, Harry Potter and the Philosopher’s Stone, 
+                    was published by Bloomsbury in 1997 to immediate popular and critical acclaim."
+                </head>
+                <figDesc>Book front cover</figDesc>
+            </figure>
+
+            <docImprint>
+                <publisher>Bloomsbery</publisher>
+                <pubPlace>UK</pubPlace>
+                <docDate>1997</docDate>
+            </docImprint>
+
+
+            
+        </titlePage>    
+    </front> 
+         <body>
                 <!--Some structural division, paragraph, line group, speech-->
-        "The first Harry Potter book, Harry Potter and the Philosopher’s Stone, 
-        was published by Bloomsbury in 1997 to immediate popular and critical acclaim."
-        
         </body>
-    </text>
+ </text>
+
 </TEI>
 
  
